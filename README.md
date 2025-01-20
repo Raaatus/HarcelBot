@@ -20,7 +20,7 @@ Voici ses fonctionnalités principales :
 - **Mises à jour via Discord** : vous pouvez gérer les cookies et les profils directement depuis un serveur Discord.
 - **Retours sur Discord** : les résultats des actions sont envoyés dans un canal défini.
 
-Si la cible désactive les commentaires, vous pouvez considérer que vous avez gagné la bataille !
+Si la cible désactive les commentaires, c'est vraiment une méga miskine, et vous pouvez considerez que vous avez largement gagné. Ils ont plié ces grosses victimes.
 
 ---
 
