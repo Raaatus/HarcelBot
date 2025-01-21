@@ -1,6 +1,9 @@
 
 
 # HarcelBot
+
+[EN-Version](README-EN.md)
+
 Un bot conçu pour poster des commentaires en boucle sur les profils Steam.
 
 ## Explication
